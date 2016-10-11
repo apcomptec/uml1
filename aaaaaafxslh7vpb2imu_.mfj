@@ -1,0 +1,24 @@
+{
+	"_type": "UMLTemplateParameterCompartmentView",
+	"_id": "AAAAAAFXslH7VPB2imU=",
+	"_parent": {
+		"$ref": "AAAAAAFXslH7U/BtDB0="
+	},
+	"model": {
+		"$ref": "AAAAAAFXslH7UvBrWDU="
+	},
+	"visible": false,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": -80,
+	"top": -56,
+	"width": 10,
+	"height": 10,
+	"autoResize": false
+}

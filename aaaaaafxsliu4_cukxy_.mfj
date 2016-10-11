@@ -1,0 +1,18 @@
+{
+	"_type": "UMLAssociationEnd",
+	"_id": "AAAAAAFXslIU4/CuKXY=",
+	"_parent": {
+		"$ref": "AAAAAAFXslIU4/Ctc+g="
+	},
+	"reference": {
+		"$ref": "AAAAAAFXslH7UvBrWDU="
+	},
+	"visibility": "public",
+	"navigable": true,
+	"aggregation": "none",
+	"isReadOnly": false,
+	"isOrdered": false,
+	"isUnique": false,
+	"isDerived": false,
+	"isID": false
+}
