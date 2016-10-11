@@ -1,0 +1,33 @@
+{
+	"_type": "UMLSubsystemView",
+	"_id": "AAAAAAFXslM7QfIPBiQ=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBtyKM79qY="
+	},
+	"model": {
+		"$ref": "AAAAAAFXslM7QfINf/A="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": true,
+	"containerExtending": false,
+	"left": 840,
+	"top": 200,
+	"width": 85,
+	"height": 40,
+	"autoResize": false,
+	"stereotypeDisplay": "label",
+	"showVisibility": true,
+	"showNamespace": false,
+	"showProperty": true,
+	"showType": true,
+	"nameCompartment": {
+		"$ref": "AAAAAAFXslM7QfIQPZA="
+	},
+	"wordWrap": false
+}

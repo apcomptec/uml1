@@ -1,0 +1,13 @@
+{
+	"_type": "UMLSubsystem",
+	"_id": "AAAAAAFXslM7QfINf/A=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Subsystem1",
+	"visibility": "public",
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false,
+	"isIndirectlyInstantiated": true
+}
