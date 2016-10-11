@@ -1,0 +1,12 @@
+{
+	"_type": "UMLActor",
+	"_id": "AAAAAAFXskdkTewq0pc=",
+	"_parent": {
+		"$ref": "AAAAAAFXskdJZewlgtU="
+	},
+	"name": "Actor1",
+	"visibility": "public",
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false
+}

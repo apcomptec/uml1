@@ -1,0 +1,10 @@
+{
+	"_type": "UMLUseCaseDiagram",
+	"_id": "AAAAAAFXskdJZewmxx0=",
+	"_parent": {
+		"$ref": "AAAAAAFXskdJZewlgtU="
+	},
+	"name": "UseCaseDiagram1",
+	"visible": true,
+	"defaultDiagram": false
+}

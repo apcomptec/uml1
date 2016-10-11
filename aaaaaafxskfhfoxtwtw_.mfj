@@ -1,0 +1,9 @@
+{
+	"_type": "UMLUseCaseSubject",
+	"_id": "AAAAAAFXskfhfOxTwTw=",
+	"_parent": {
+		"$ref": "AAAAAAFXskdJZewlgtU="
+	},
+	"name": "UseCaseSubject1",
+	"visibility": "public"
+}

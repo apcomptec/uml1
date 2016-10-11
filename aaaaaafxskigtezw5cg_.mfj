@@ -1,0 +1,21 @@
+{
+	"_type": "RectangleView",
+	"_id": "AAAAAAFXskiGTezw5Cg=",
+	"_parent": {
+		"$ref": "AAAAAAFXskdJZewmxx0="
+	},
+	"visible": true,
+	"enabled": true,
+	"lineColor": "#000000",
+	"fillColor": "#ffffff",
+	"fontColor": "#000000",
+	"font": "Arial;13;0",
+	"showShadow": true,
+	"containerChangeable": false,
+	"containerExtending": false,
+	"left": 256,
+	"top": 248,
+	"width": 272,
+	"height": 240,
+	"autoResize": false
+}

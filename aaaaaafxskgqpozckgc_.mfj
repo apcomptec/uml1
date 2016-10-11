@@ -1,0 +1,9 @@
+{
+	"_type": "UMLPackage",
+	"_id": "AAAAAAFXskgqPOzCkgc=",
+	"_parent": {
+		"$ref": "AAAAAAFXskdJZewlgtU="
+	},
+	"name": "Package1",
+	"visibility": "public"
+}

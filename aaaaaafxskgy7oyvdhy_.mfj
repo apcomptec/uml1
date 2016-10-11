@@ -1,0 +1,12 @@
+{
+	"_type": "UMLUseCase",
+	"_id": "AAAAAAFXskgY7OyVDHY=",
+	"_parent": {
+		"$ref": "AAAAAAFXskdJZewlgtU="
+	},
+	"name": "UseCase1",
+	"visibility": "public",
+	"isAbstract": false,
+	"isFinalSpecialization": false,
+	"isLeaf": false
+}
